@@ -2,8 +2,8 @@
 
 #### About me
 
-- 🔭 I’m currently working on my second year courses of my BSc in Computing Science.
-- 🌱 I’m currently learning Apache Hadoop, Docker, and socket programming.
+- 🔭 I’m currently in my third year of my BSc in Computing Science.
+- 🌱 I’m currently learning Data Analysis and Artificial Intelligence.
 - 📫 How to reach me: send me an email to spadron05@gmail.com
 - ⚡ Fun fact: I miss the sun :(
 
@@ -11,10 +11,6 @@
 * Java, C++, Python
 * HTML, CSS
 * Git, Markdown, LaTeX
-
-#### Projects
-##### Data Mining
-https://www.kaggle.com/spadron05/code
 
 #### Socials
 <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/samuelpadronalcala/">

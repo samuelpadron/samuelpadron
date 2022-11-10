@@ -3,7 +3,7 @@
 #### About me
 
 - 🔭 I’m currently in my third year of my BSc in Computing Science.
-- 🌱 I’m currently learning Data Analysis and Artificial Intelligence.
+- 🌱 I’m currently Artificial Intelligence: Principles and Techniques.
 - 📫 How to reach me: send me an email to spadron05@gmail.com
 - ⚡ Fun fact: I miss the sun :(
 

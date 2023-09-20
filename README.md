@@ -2,13 +2,13 @@
 
 #### About me
 
-- 🔭 I’m currently in my third year of my BSc in Computing Science.
-- 🌱 I’m currently learning Deep Learning, Reinforcement Learning, Software Verification, and Software Engineering.
+- 🔭 I’m currently in my fourth year of my BSc in Computing Science.
+- 🌱 I’m currently learning Data Analysis and Azure AI Fundamentals.
 - 📫 How to reach me: send me an email to spadron05@gmail.com
 - ⚡ Fun fact: I miss the sun :(
 
 #### Tech Stack
-* Python, C#, JavaScript
+* Python, C#, Java
 * HTML, CSS
 
 #### Socials

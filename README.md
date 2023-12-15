@@ -3,12 +3,12 @@
 #### About me
 
 - 🔭 I’m currently in my fourth year of my BSc in Computing Science.
-- 🌱 I’m currently learning Data Analysis and Azure AI Fundamentals.
+- 🌱 I’m currently learning bioinformatics.
 - 📫 How to reach me: send me an email to spadron05@gmail.com
 - ⚡ Fun fact: I miss the sun :(
 
 #### Tech Stack
-* Python, C#, Java
+* Python, Java
 * HTML, CSS
 
 #### Socials

@@ -3,13 +3,12 @@
 #### About me
 
 - 🔭 I’m currently in my fourth year of my BSc in Computing Science.
-- 🌱 I’m currently learning bioinformatics.
+- 🌱 I’m currently learning PyTorch, bioinformatics, and web security.
 - 📫 How to reach me: send me an email to spadron05@gmail.com
 - ⚡ Fun fact: I miss the sun :(
 
 #### Tech Stack
 * Python, Java
-* HTML, CSS
 
 #### Socials
 <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/samuelpadronalcala/">

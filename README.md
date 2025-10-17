@@ -2,7 +2,7 @@
 
 #### About me
 
-- 🔭 I’m currently in my first year of my MSc in Data Science.
+- 🔭 I’m currently in my second year of my MSc in Data Science.
 - 🌱 I’m currently learning AI in Medical Imaging and Machine Learning in Physics.
 - 📫 How to reach me: send me an email to spadron05@gmail.com
 - ⚡ Fun fact: I miss the sun :(

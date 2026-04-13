@@ -3,13 +3,13 @@
 #### About me
 
 - 🔭 I’m currently in my second year of my MSc in Data Science.
-- 🌱 I’m currently learning Text and Multimedia Mining and Conversational AI.
+- 🌱 I’m currently doing computer vision research for autonomous driving.
 - 📫 How to reach me: send me an email to spadron05@gmail.com
 - ⚡ Fun fact: I miss the sun :(
 
 #### Tech Stack
-* Python, Java, C++, C#
-* WEB: HTML, CSS, TypeScript, React Native
+* Python, C++, C#, Java
+* WEB: HTML, CSS, JavaScript, TypeScript, Svelte, React Native
 
 #### Socials
 <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/samuelpadronalcala/">

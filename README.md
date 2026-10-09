@@ -2,8 +2,8 @@
 
 #### About me
 
-- 🔭 I’m currently in my second year of my MSc in Data Science.
-- 🌱 I’m currently doing computer vision research for autonomous driving.
+- 🔭 I’m currently finishing my MSc in Data Science.
+- 🌱 I’m currently doing research on visual-language-action (VLA) models.
 - 📫 How to reach me: send me an email to spadron05@gmail.com
 - ⚡ Fun fact: I miss the sun :(
 
